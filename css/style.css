@@ -1,0 +1,48 @@
+body {
+    
+}
+
+.jumbotron {
+    height: 500px;
+}
+
+#homeContainer {
+   background-image: url(https://s14.postimg.org/5s76qcj75/pexels_photo_41123.jpg);
+ padding: 30px 30px 50px 30px;
+    margin: 0 0 30 0px;
+ -moz-box-shadow: 0 0 10px #777777;
+ -webkit-box-shadow: 0 0 10px #777777;
+  box-shadow: 0 0 6px #777777;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+
+img bio1 {
+margin-bottom: 15px;
+}
+
+li {
+    text-decoration: none;
+    display: inline;
+}
+
+li a {
+    font-size: 14px;
+    padding: 15px;
+    font-weight: bold;
+    color: #F06A51;
+    text-transform: uppercase;
+    text-shadow: 1px 1px #000000;
+    
+    
+}
+
+li a:hover {
+    text-decoration: none;
+    color: #1CBCB4;
+    border-bottom: 1px solid #F06A51;
+}
+
+
+
